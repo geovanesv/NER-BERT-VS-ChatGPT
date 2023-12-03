@@ -11,7 +11,7 @@ O reconhecimento de entidades nomeadas (NER) desempenha um papel crucial em tare
 
 1. **BERT (Bidirectional Encoder Representations from Transformers):** Um modelo de linguagem pré-treinado que atingiu excelentes resultados em diversas tarefas de PLN.
 
-2. **NERChatGPT:** Uma variante especializada do GPT (Generative Pre-trained Transformer) para o reconhecimento de entidades nomeadas.
+2. **ChatGPT:** Utiliza o modelo do GPT (Generative Pre-trained Transformer) para o reconhecimento de entidades nomeadas.
 
 ## Estrutura do Repositório
 
