@@ -28,4 +28,4 @@ O reconhecimento de entidades nomeadas (NER) desempenha um papel crucial em tare
 - **Instituição de Ensino**: Instituto Federal de Educação, ciência e Tecnologia do Estado do Ceará - IFCE.
 - **Curso**: Ciência da Computação
 
-- **Data de Conclusão**: 30/12/2023
+- **Data de Conclusão**: 20/12/2023
