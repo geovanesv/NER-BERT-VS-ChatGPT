@@ -15,7 +15,7 @@ O reconhecimento de entidades nomeadas (NER) desempenha um papel crucial em tare
 
 ## Estrutura do Repositório
 
-- `Notebooks/BERT/`: Contém o notebook do colab com toda a implementaçao do BERTT.
+- `Notebooks/BERT/`: Contém o notebook do colab com toda a implementaçao do BERT.
 - `Notebooks/ChatGPT`: Contém o notebbok do colab com toda a implementação do NER-ChatGPT.
 - `data/`: Armazena um arquivo csv contendo as respostas do chatGPT.
 
