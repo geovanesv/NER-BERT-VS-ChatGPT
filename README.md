@@ -28,5 +28,5 @@ O reconhecimento de entidades nomeadas (NER) desempenha um papel crucial em tare
 - **Instituição de Ensino**: Instituto Federal de Educação, Ciência e Tecnologia do Estado do Ceará - IFCE.
 - **Curso**: Ciência da Computação
 - **Data de Conclusão**: 20/12/2023
-- **Artigo**: [ANÁLISE COMPARATIVA DO BERT E CHATGPT.pdf](https://github.com/geovanesv/NER-BERT-VS-ChatGPT/files/13902381/ANALISE.COMPARATIVA.DO.BERT.E.CHATGPT.pdf)
+- **Artigo**: [ANÁLISE COMPARATIVA DO BERT E CHATGPT.pdf](https://github.com/user-attachments/files/20523079/ANALISE.COMPARATIVA.DO.BERT.E.CHATGPT-.pdf)
 
